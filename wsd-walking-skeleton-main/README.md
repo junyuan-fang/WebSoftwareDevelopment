@@ -80,3 +80,4 @@ we'll discuss these briefly in the course, where this walking skeleton is used.
 The walking skeleton also comes with a few default VSCode settings. These
 settings can be found in the `settings.json` file in the `.vscode` folder. By
 default, we assume that you have the VSCode Deno plugin.
+
