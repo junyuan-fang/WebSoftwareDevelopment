@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "20736",
+    "last-modified": "Wed, 05 Jan 2022 16:51:17 GMT",
+    "x-amz-id-2": "9+aj8lMsbR7+QFFH0sWu2rUK/hgeqnpiJZ3n/QE+40jI2MDSnqOSFDrUjBGC4W4zLgq+HA0FAXY=",
+    "etag": "\"a7132a3922092953aafb6f3fbdd328f7\"",
+    "date": "Wed, 16 Feb 2022 17:15:53 GMT",
+    "x-amz-request-id": "5A35QQZHWBJJW9AH",
+    "server": "deploy/europe-north1-a",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "PnPlKnN_d00a9v89EJDSNIIOxUII3BAM"
+  },
+  "url": "https://deno.land/std@0.120.0/http/server.ts",
+  "now": {
+    "secs_since_epoch": 1645031752,
+    "nanos_since_epoch": 383287486
+  }
+}
